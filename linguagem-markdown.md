@@ -32,7 +32,7 @@ Ou
 
 * Primeiro tópico
 * Segundo Tópico
-   * 3 subtópico
+   * subtópico
 
 ### Inserindo imagem
 
